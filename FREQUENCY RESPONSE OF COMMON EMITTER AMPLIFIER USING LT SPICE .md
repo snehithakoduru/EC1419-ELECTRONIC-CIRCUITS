@@ -25,8 +25,13 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
+<img width="374" height="503" alt="Screenshot 2026-03-30 122357" src="https://github.com/user-attachments/assets/00bd9a50-9cd7-46cb-bb19-528264d298b9" />
+
+## Calculation
+<img width="369" height="538" alt="Screenshot 2026-03-30 122409" src="https://github.com/user-attachments/assets/935e81f2-cffd-4969-8298-c0feb1e673cb" />
 
 ## Graph
+<img width="391" height="668" alt="Screenshot 2026-03-30 114732" src="https://github.com/user-attachments/assets/c7062cd7-3205-45da-bd81-acc764699393" />
 
 
 ## **Result**
