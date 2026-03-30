@@ -14,12 +14,17 @@
 
 
 ## Tabulation
+<img width="360" height="536" alt="image" src="https://github.com/user-attachments/assets/871e9c63-e830-426b-8ed8-c4270e11125d" />
+
+## Circuit diagram
+<img width="416" height="306" alt="Screenshot 2026-03-30 123221" src="https://github.com/user-attachments/assets/c7480de3-1b51-4df2-8b89-7c21734512f8" />
 
 ## Graph
+<img width="419" height="238" alt="Screenshot 2026-03-30 123233" src="https://github.com/user-attachments/assets/0fca6d6b-482b-40b8-a62e-fbf5727b665f" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
+**Practical frequency of Oscillation = 1.58 khz**
 
-
-Theoritical Frequency of Oscillation =
+**Theoritical Frequency of Oscillation = 1.59 khz**
